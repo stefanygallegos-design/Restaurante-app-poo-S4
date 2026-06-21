@@ -1,7 +1,7 @@
 # Sistema de Gestión de Restaurante
 
 ## Estudiante
-[Tu nombre completo]
+Stefany Gallegos Zarri
 
 ## Descripción
 
