@@ -11,6 +11,7 @@ El sistema permite registrar productos disponibles en un restaurante y clientes 
 
 ## Estructura del proyecto
 
+```text
 restaurante_app/
 │
 ├── modelos/
@@ -23,6 +24,7 @@ restaurante_app/
 ├── main.py
 │
 └── README.md
+```
 
 ## Funcionalidades
 
